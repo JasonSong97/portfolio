@@ -32,7 +32,7 @@
     {
       "id": 0,
       "name": "연차 당직 프로젝트",
-      "description": "연차와 당직을 관리하는 프로젝트",
+      "description": "연차와 당직을 관리하는 근태관리 플랫폼 서비스",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/smash-teams/smash-teams-BE",
       "isTeam": true,
@@ -42,7 +42,7 @@
     {
       "id": 1,
       "name": "기업 연계를 통한 3D 에셋 커머스 프로젝트",
-      "description": "Nation A 기업과 연계를 통한 16명의 대규모 3D 에셋 커머스 프로젝트",
+      "description": "Nation A 기업연계를 통한 16명의 대규모 3D 모션판매 커머스 프로젝트",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/JasonSong97/3D-BE",
       "isTeam": true,
