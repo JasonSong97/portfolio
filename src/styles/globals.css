@@ -60,8 +60,4 @@
   li ul {
     @apply pt-2;
   }
-
-  .gap-24 {
-    gap: 2rem;
-  }
 }

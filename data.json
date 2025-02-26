@@ -17,13 +17,13 @@
       "id": 0,
       "name": "빈 브라더스",
       "position": "파티시에",
-      "period": ["2022. 02", "2022.11"]
+      "period": ["2022.02", "2022.11"]
     },
     {
       "id": 1,
       "name": "크리에이티브 옐로우",
       "position": "Backend Engineer",
-      "period": ["2023. 12", "PRESENT"]
+      "period": ["2023.12", "PRESENT"]
     }
     
   ],
@@ -31,38 +31,62 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
+      "name": "연차 당직 프로젝트",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
+      "period": ["2022.07", "2022.09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
     {
       "id": 1,
-      "name": "첫번째 개인 프로젝트",
+      "name": "기업 연계를 통한 3D 에셋 커머스 프로젝트",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
+      "isTeam": true,
+      "period": ["2022.07", "2022.09"],
+      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+    },
+    {
+      "id": 2,
+      "name": "게시판 대규모 시스템 설계",
+      "description": "대규모 데이터와 트래픽을 지탱하기 위한 시스템을, 스프링부트로 직접 만들면서 학습했습니다.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/JasonSong97/system-design-architecture-board",
       "isTeam": false,
-      "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "period": ["2024.", "2025.02"],
+      "stack": ["Spring Boot 3.3.2", "Java 21", "JPA", "Gradle", "MySQL 8.0.38", "Redis 7.4", "Kafka 3.8.0", "IntelliJ IDEA"]
+    },
+    {
+      "id": 3,
+      "name": "게시판 대규모 시스템 설계",
+      "description": "대규모 데이터와 트래픽을 지탱하기 위한 시스템을, 강의를 들으며 스프링부트로 직접 만들면서 학습했습니다.",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/JasonSong97/system-design-architecture-board",
+      "isTeam": false,
+      "period": ["2024.", "2025.02"],
+      "stack": ["Spring Boot 3.3.2", "Java 21", "JPA", "Gradle", "MySQL 8.0.38", "Redis 7.4", "Kafka 3.8.0", "IntelliJ IDEA"]
+    },
+    {
+      "id": 4,
+      "name": "Joonbee",
+      "description": "취업과 이직을 도와주는 AI 면접 서비스",
+      "webUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/JasonSong97/system-design-architecture-board",
+      "isTeam": false,
+      "period": ["2024.", "2025.02"],
+      "stack": ["NestJS", "TypeScript", "TypeORM", "PostgreSQL", "Docker", "Docker Compose", "Socket IO", "REST API", "VSCode"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "첫번째 활동에 대한 간략한 설명"
-    },
-    {
-      "id": 1,
-      "name": "두번째 활동",
-      "period": ["2022. 06", "2022. 08"],
-      "description": "두번째 활동에 대한 간략한 설명"
+      "name": "패스트캠퍼스 스프링부트 백엔드",
+      "period": ["2022.12", "2023.07"],
+      "description": "기업연계 스프링부트 부트캠프"
     }
   ],
 
@@ -70,14 +94,14 @@
     {
       "id": 0,
       "name": "우송대학교",
-      "period": ["2020. 02", "2023. 08"],
+      "period": ["2020.02", "2023.08"],
       "description": "외식경영학"
     },
     {
       "id": 1,
       "name": "고려사이버대학교",
       "period": ["2025.02", "PRESENT"],
-      "description": "데이터 엔지니어링"
+      "description": "AI 데이터 엔지니어링"
     }
   ],
 
@@ -85,37 +109,31 @@
     {
       "id": 0,
       "name": "제과기능사",
-      "date": "2021. 02",
+      "date": "2021.02",
       "organizer": "한국산업인력공단"
     },
     {
       "id": 1,
       "name": "INBP Diploma of Pastry",
-      "date": "2021. 12",
+      "date": "2021.12",
       "organizer": "프랑스국립제과제빵협회"
     },
     {
       "id": 2,
-      "name": "스프링부트 백엔드",
-      "date": "2023. 07",
-      "organizer": "패스트캠퍼스"
-    },
-    {
-      "id": 3,
       "name": "토익스피킹 170",
-      "date": "2024. 05",
+      "date": "2024.05",
       "organizer": "한국TOEIC위원회"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "정보처리기사",
-      "date": "2024. 09",
+      "date": "2024.09",
       "organizer": "한국산업인력공단"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "SQLD",
-      "date": "2024. 12",
+      "date": "2024.12",
       "organizer": "한국데이터산업진흥원"
     }
   ],
@@ -123,9 +141,9 @@
   "award": [
     {
       "id": 0,
-      "name": "대규모 기업연계 프로젝트",
-      "date": "2023. 06",
-      "organizer": "패스트캠퍼스",
+      "name": "패스트캠퍼스 대규모 기업연계 프로젝트",
+      "date": "2023.06",
+      "organizer": "",
       "description": "최우수상"
     }
   ]
