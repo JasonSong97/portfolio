@@ -7,11 +7,11 @@ const Links = ({ repoUrl, webUrl }: { repoUrl: string; webUrl: string | undefine
       <a target="_blank" rel="noreferrer" href={repoUrl} className="w-fit">
         <GithubIcon className="hover:text-PRIMARY_HEAVY dark:hover:text-GRAY_HEAVY md:fill-current fill-BLACK dark:fill-white" />
       </a>
-      {webUrl && (
+      {/* {webUrl && (
         <a target="_blank" rel="noreferrer" href={webUrl} className="w-fit">
           <WebIcon className="hover:text-PRIMARY_HEAVY dark:hover:text-GRAY_HEAVY md:fill-current fill-BLACK dark:fill-white" />
         </a>
-      )}
+      )} */}
     </div>
   );
 };

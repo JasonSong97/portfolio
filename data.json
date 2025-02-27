@@ -56,8 +56,8 @@
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/JasonSong97/system-design-architecture-board",
       "isTeam": true,
-      "period": ["2024.", "2025.02"],
-      "stack": ["NestJS", "TypeScript/TypeORM", "PostgreSQL", "Docker Compose", "Socket IO", "VSCode"]
+      "period": ["2023.10", "2024.08"],
+      "stack": ["NestJS", "TypeScript/TypeORM", "MySQL", "Nginx", "Docker Compose", "VSCode"]
     },
     {
       "id": 3,
@@ -72,12 +72,12 @@
     {
       "id": 4,
       "name": "게시판 대규모 시스템 설계",
-      "description": "대규모 데이터와 트래픽을 지탱하기 위한 시스템 이해를 위해, 스프링부트로 직접 만들어 보는 클론 프로젝트",
+      "description": "로컬환경에서 대규모 데이터와 트래픽을 지탱하기 위한 시스템 이해를 위해, 스프링부트로 직접 만들어 보는 클론 프로젝트",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/JasonSong97/system-design-architecture-board",
       "isTeam": false,
-      "period": ["2024.10", "2025.02"],
-      "stack": ["Java", "Spring Boot/JPA", "JUnit 5", "Gradle", "Docker", "Kafka", "Redis", "MySQL", "IntelliJ IDEA"]
+      "period": ["2024.10", "PRESENT"],
+      "stack": ["Java", "Spring Boot/JPA", "JUnit 5", "Gradle", "Docker", "Docker Compose", "Kafka", "Redis", "MySQL", "IntelliJ IDEA"]
     }
   ],
 
