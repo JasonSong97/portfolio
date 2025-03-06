@@ -8,8 +8,9 @@
     "contact": [
       { "id": 0, "name": "Email", "href": "jaegeunsong97g@gmail.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/JasonSong97" },
-      { "id": 2, "name": "Tistory", "href": "https://jasonsong97.tistory.com/" },
-      { "id": 3, "name": "Resume", "href": "https://docs.google.com/document/d/1F38Kbyo629Ei4XU5upOREvN0pmCGkF5AeswgzXb2y1A/edit?usp=sharing" }
+      { "id": 2, "name": "Linkedin", "href": "www.linkedin.com/in/jaegeunsong" },
+      { "id": 3, "name": "Tistory", "href": "https://jasonsong97.tistory.com/" },
+      { "id": 4, "name": "Resume", "href": "https://docs.google.com/document/d/1F38Kbyo629Ei4XU5upOREvN0pmCGkF5AeswgzXb2y1A/edit?usp=sharing" }
     ]
   },
 
