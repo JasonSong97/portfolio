@@ -7,21 +7,21 @@ import type { AppProps } from "next/app";
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "송재근 | Backend Engineer",
-  description: "백엔드 소프트웨어 엔지니어 송재근입니다.",
+  title: "송재근 | Software Engineer",
+  description: "소프트웨어 엔지니어 송재근입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
     url: "https://www.naver.com/",
-    title: "송재근 | Backend Engineer",
-    site_name: "송재근 | Backend Engineer",
+    title: "송재근 | Software Engineer",
+    site_name: "송재근 | Software Engineer",
     images: [
       {
         url: "/share.png",
         width: 285,
         height: 167,
-        alt: "송재근 | Backend Engineer",
+        alt: "송재근 | Software Engineer",
       },
     ],
   },
@@ -34,11 +34,11 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "송재근 | Backend Engineer",
+      content: "송재근 | Software Engineer",
     },
     {
       name: "msapplication-tooltip",
-      content: "송재근 | Backend Engineer",
+      content: "송재근 | Software Engineer",
     },
     {
       name: "viewport",
