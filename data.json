@@ -1,6 +1,6 @@
 {
   "resumeTitle": {
-    "title": "Connecting the Dots."
+    "title": "Rebuild it. Just the way it was. Brick for brick"
   },
 
   "information": {
@@ -18,13 +18,13 @@
     {
       "id": 0,
       "name": "빈 브라더스",
-      "position": "파티시에",
+      "position": "식품 생산·수요 기획 매니저",
       "period": ["2022.02", "2022.11"]
     },
     {
       "id": 1,
       "name": "크리에이티브 옐로우",
-      "position": "Backend Engineer",
+      "position": "데이터·소프트웨어 엔지니어",
       "period": ["2023.12", "PRESENT"]
     }
     
